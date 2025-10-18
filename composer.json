@@ -1,7 +1,7 @@
 {
 	"name": "compono-kit/price-bundle",
 	"description": "Bundle of the packages money, currencies, prices and money-formatters of compono-kit",
-	"homepage": "https://github.com/compono-kit/money-bundle",
+	"homepage": "https://github.com/compono-kit/price-bundle",
 	"minimum-stability": "dev",
 	"prefer-stable": true,
 	"license": "proprietary",
