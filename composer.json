@@ -1,0 +1,20 @@
+{
+	"name": "compono-kit/price-bundle",
+	"description": "Bundle of the packages money, currencies, prices and money-formatters of compono-kit",
+	"homepage": "https://github.com/compono-kit/money-bundle",
+	"minimum-stability": "dev",
+	"prefer-stable": true,
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Benjamin Bruska",
+			"email": "benjamin.bruska@your-coder.de"
+		}
+	],
+	"require": {
+		"php": ">=8.0",
+		"compono-kit/money-bundle": "^1.0.0",
+		"compono-kit/prices": "^1.0.0"
+	}
+}
+
