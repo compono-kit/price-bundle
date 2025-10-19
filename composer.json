@@ -12,9 +12,9 @@
 		}
 	],
 	"require": {
-		"php": ">=8.0",
-		"compono-kit/money-bundle": "^1.0.0",
-		"compono-kit/prices": "^1.0.0"
+		"php": ">=8.3",
+		"compono-kit/money-bundle": "^2.0.0",
+		"compono-kit/prices": "^2.0.0"
 	}
 }
 
