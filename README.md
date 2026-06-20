@@ -1,10 +1,9 @@
-# Types Bundle
+# Price Bundle
 
-Bundle of types-, lists- and maps interfaces and implementations
+Bundle of price interfaces and implementation with usable money implementation
 
 ## Requirements
 
-* PHP >= 8.0
-* compono-kit/types
-* compono-kit/maps
-* compono-kit/lists
+* PHP >= 8.3
+* compono-kit/money-bundle
+* compono-kit/prices
