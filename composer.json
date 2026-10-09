@@ -14,7 +14,7 @@
 	"require": {
 		"php": ">=8.3",
 		"compono-kit/money-bundle": "^2.0.0",
-		"compono-kit/prices": "^2.0.0"
+		"compono-kit/prices": "^3.0.0"
 	}
 }
 
