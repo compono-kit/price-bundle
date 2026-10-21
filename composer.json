@@ -4,7 +4,7 @@
 	"homepage": "https://github.com/compono-kit/price-bundle",
 	"minimum-stability": "dev",
 	"prefer-stable": true,
-	"license": "proprietary",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "Benjamin Bruska",
@@ -12,9 +12,9 @@
 		}
 	],
 	"require": {
-		"php": ">=8.3",
-		"compono-kit/money-bundle": "^2.0.0",
-		"compono-kit/prices": "^3.0.0"
+		"php": ">=8.5",
+		"compono-kit/money-bundle": "^3.0.0",
+		"compono-kit/prices": "^4.0.0"
 	}
 }
 
